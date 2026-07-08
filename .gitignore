@@ -1,0 +1,17 @@
+# Private Configuration & API Keys 
+.env
+
+# Local Databases & Data Stores 
+candidates.json
+vectorstore/
+
+# Virtual Environment 
+venv/
+
+# Python Compiled Cache 
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS System Metadata 
+.DS_Store
